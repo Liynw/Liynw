@@ -1,13 +1,17 @@
-## Hello! I'm [Saiodgm](https://github.com/cqbzljt).
+<img align='right' src='https://files.imgdb.cn/static/images/07/d9/62ecbf118c61dc3b8e1307d9.jpg'>
 
-`cqbzljt` is my old nickname on the Internet and I don't want to change my GitHub name.
+## 🎉Hi there! I'm [Saiodgm](https://github.com/cqbzljt). Very nice to me you.
 
-I'm a junior high school student from Chongqing, China, and used to be an OIer.
+@cqbzljt is my old nickname. If you don't want to type my name, you can call me ljt. @[MqvqM](https://github.com/MqvqM) is my tester.
 
-I'm willing to meet all of you.
+Something about me:
 
-My website is <https://saiodgm.gq/>, welcome!
+👩 | 🍰14 years old | ♑ | :world_map: Come from Chongqing, China | 💻Used to be an [OIer](https://oier.baoshuo.dev/)
 
-Since 2022/6/26:
+My website:
 
-![](https://count.getloli.com/get/@Saiodgm-GitHub-Introduce)
+- [Profile](https://saiodgm.gq)
+- [Mainblog](https://blog.saiodgm.gq)
+- [OIblog](https://oi.saiodgm.gq)
+- [JsDelivr Mirror](https://j.saiodgm.gq) (Made by [Cloudflare Worker](https://workers.cloudflare.com/))
+- [UNPKG Mirror](https://u.saiodgm.gq) (Made by [Cloudflare Worker](https://workers.cloudflare.com/))

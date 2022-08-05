@@ -8,7 +8,7 @@
 
 👩 | 🍰14 years old | ♑ | :world_map: Come from Chongqing, China
 
-![](https://github-readme-stats.vercel.app/api/?username=cqbzljt&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/?username=cqbzljt)
 
 ### Why use GitHub?
 

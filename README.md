@@ -8,8 +8,6 @@
 
 👩 | 🍰14 years old | ♑ | :world_map: Come from Chongqing, China
 
-![](https://github-readme-stats.vercel.app/api/?username=cqbzljt)
-
 ### Why use GitHub?
 
 I used to be an [OIer](https://oier.baoshuo.dev/). Due to my friend [XSC062](https://xsc062.gitee.io) (an OIer too), I got to know [Hexo](https://hexo.io) and start to make my own blog.

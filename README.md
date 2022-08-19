@@ -19,8 +19,6 @@ I used to be an [OIer](https://oier.baoshuo.dev/). Due to my friend [XSC062](htt
 - [Profile](https://saiodgm.gq)
 - [Mainblog](https://blog.saiodgm.gq)
 - [OIblog](https://oi.saiodgm.gq)
-- [JsDelivr Mirror](https://j.saiodgm.gq) (Made by [Cloudflare Worker](https://workers.cloudflare.com/))
-- [UNPKG Mirror](https://u.saiodgm.gq) (Made by [Cloudflare Worker](https://workers.cloudflare.com/))
 
 ***
 

@@ -25,5 +25,5 @@ I used to be an [OIer](https://oier.baoshuo.dev/). Due to my friend [XSC062](htt
 ## Now TO-DO List:
  - [ ] Learn CSS
  - [ ] Learn JS
- - [ ] Fix my Profile page
+ - [X] Fix my Profile page (Almost done)
  - [ ] Join an Project

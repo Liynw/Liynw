@@ -4,9 +4,11 @@ Saiodgm and cqbzljt are my old nicknames. If you don't want to type my name, you
 
 ### Something about me:
 
-👩 | 🍰15 years old | ♑ | :world_map: Come from Chongqing, China
+👩 | 🍰18 years old | ♑ | :world_map: Come from Chongqing, China
 
-[My Website](https://www.liynw.top/).Welcome!
+I'm just back so it takes time to regain my technique to become a developer.
+
+~~[My Website](https://www.liynw.top/).Welcome!~~ New website is on its way.
 
 ### Why use GitHub?
 
